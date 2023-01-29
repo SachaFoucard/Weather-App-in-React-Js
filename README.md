@@ -11,3 +11,6 @@
 - UseEffect
 - Pure Css
 
+## Explication
+- Enter the city where you are living and it will give you back the temperture of the city and if it's runing or sunny at the real time (connect to Api)
+- The background change in terms of the temperature of the city that you enter 
